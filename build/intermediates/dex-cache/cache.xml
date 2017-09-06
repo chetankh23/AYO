@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/chetan/.android/build-cache/0dbe7e6ee91a2c1d036ed47da3b3165bb411dff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bc0a8cb13958040e05264ca711f2468bf046850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chetan/.android/build-cache/f8bd16136cd88aee103875b60f272290ad711c1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aab22bdaea330412573f2d48e6868cee362b21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chetan/.android/build-cache/753a2ea7f7adcebda064141813154b99a836b7ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d10eb2b10cc347ed15cae80a5a3696b7dea73dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chetan/.android/build-cache/0a06c014c3eff2824a2422c25272e2933d496100/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6575985d18aab375e8bf1669da47933926d3d78d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41d89d8e624d0eb12ffc85be34fc835c903fe2bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chetan/.android/build-cache/9103a0eef7151095de7f0ddbbe05edd85cd7699d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b53f249177ea9c54674c68252bd3b1b5055f988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0cd562bbdee1a961174594a4364a407025e258df">
+        <dex dex="/home/chetan/AndroidStudioProjects/AYOTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_95220c535678ba91e3e1174e8f463e249f2cdf32/classes.dex" />
+    </item>
+
+</items>
